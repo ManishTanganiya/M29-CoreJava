@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author manis
+ *
+ */
+module day {
+}
