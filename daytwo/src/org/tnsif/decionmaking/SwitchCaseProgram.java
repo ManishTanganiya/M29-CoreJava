@@ -6,6 +6,7 @@ public class SwitchCaseProgram {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the song input");
 		int songInput=s.nextInt();
+		//Switch case statement
 		switch(songInput)
 		{
 		case 1:
